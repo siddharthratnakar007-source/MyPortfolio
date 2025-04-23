@@ -1,6 +1,6 @@
 ![logo](https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetBanner.jpg) 
 <h1 align="center">Hi 👋, I'm Sumeet Kumar</h1>
-<h3 align="center">A passionate Software Engineer and Game Developer from India</h3>
+<h3 align="center">A passionate CyberSecurity Expert and Game Developer from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetGif.gif">
