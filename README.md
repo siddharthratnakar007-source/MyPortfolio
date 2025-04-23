@@ -19,6 +19,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="sumeetceh" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/MeSumit" target="blank"><img align="center" src="https://github.com/SumeetCEH/SumeetCEH/blob/cd8d3c0fa81f3e911a7a32e2e9e5343a86e654f4/SumeetTelegram.gif" alt="https://t.me/MeSumit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cybersumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybersumeet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" height="30" width="40" /></a>
 </p>
