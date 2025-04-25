@@ -9,9 +9,9 @@
 
 - 🔭 Continuing with masters of **Computer Application**
 
-- 🌱 Learnt **CyberSecurity,CEH as my core subjects**
+- 🌱 Learnt **CyberSecurity, CEH as my core subjects**
 
-- 👨‍💻 All of my projects are available at [ImSraj 🫰](Https://t.me/ImSraj)
+- 👨‍💻 All of my projects are available at [ImSraj](Https://t.me/ImSraj)
 
 - 📫 How to reach me **Sraj2784kumar@gmail.com**
 
