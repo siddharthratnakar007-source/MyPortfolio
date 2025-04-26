@@ -21,7 +21,7 @@
 <h3 align="left">My Certifications:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/cybersumeet/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/ 🎓%20LinkedIn%20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
+    <img src="https://img.shields.io/badge/ 🎓%20View Sumeet's%20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
   </a>
 </p>
 
