@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sumeet Kumar</h1>
 <h3 align="center">A passionate CyberSecurity Expert and Game Developer from India</h3>
 
-
 <img align="right" alt="coding" width="400" src="https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetGif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetceh&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetceh" /> </p>
@@ -17,11 +16,18 @@
 
 - ⚡ Fun fact **I think, am developing an app to surpass telegram🤔**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="sumeetceh" /></a> </p>
+
+<!-- Certifications Section -->
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  - [Certificates I've Achieved](https://www.linkedin.com/in/cybersumeet/details/certifications/)
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/MeSumit" target="blank"><img align="center" src="https://github.com/SumeetCEH/SumeetCEH/blob/cd8d3c0fa81f3e911a7a32e2e9e5343a86e654f4/SumeetTelegram.gif" alt="https://t.me/MeSumit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cybersumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybersumeet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/cybersumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybersumeet" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeetceh&show_icons=true&locale=en" alt="sumeetceh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetceh&" alt="sumeetceh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=su meetceh&" alt="sumeetceh" /></p>
