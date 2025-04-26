@@ -18,10 +18,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="sumeetceh" /></a> </p>
 
 <!-- Certifications Section -->
-<h3 align="left">Certifications:</h3>
+<h3 align="left">My Certifications:</h3>
 <p align="left">
-  - [Certificates I've Achieved](https://www.linkedin.com/in/cybersumeet/details/certifications/)
+  <a href="https://www.linkedin.com/in/cybersumeet/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/ 🎓%20LinkedIn%20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
+  </a>
 </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
