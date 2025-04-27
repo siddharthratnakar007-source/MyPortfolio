@@ -22,19 +22,19 @@
 <p align="left">
   <!-- Certifications Button -->
   <a href="https://www.linkedin.com/in/cybersumeet/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/ 🎓%20View Sumeet's%20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
+    <img src="https://img.shields.io/badge/ 🎓%20View My %20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
   </a>
   <!-- Spacer between buttons -->
   &nbsp;&nbsp;&nbsp;
   <!-- Management Feedback Button -->
   <a href="https://t.me/KnCKorean/24" target="_blank">
-    <img src="https://img.shields.io/badge/%20View%20Telegram%20Feedback-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
+    <img src="https://img.shields.io/badge/%20My%20Management%20Feed-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
   </a>
   <!-- Spacer between buttons -->
   &nbsp;&nbsp;&nbsp;
   <!-- Projects Button -->
   <a href="https://github.com/SumeetCEH/CyberQuest" target="_blank">
-    <img src="https://img.shields.io/badge/%20View%20My%20Projects-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+    <img src="https://img.shields.io/badge/%20My%20CYBER%20Projects-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
 </p>
 
