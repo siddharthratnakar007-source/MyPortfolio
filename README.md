@@ -28,7 +28,7 @@
   &nbsp;&nbsp;&nbsp;
   <!-- Management Feedback Button -->
   <a href="https://t.me/KnCKorean/24" target="_blank">
-    <img src="https://img.shields.io/badge/ 📋%20View%20Telegram%20Feedback-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
+    <img src="https://img.shields.io/badge/%20View%20Telegram%20Feedback-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
   </a>
   <!-- Spacer between buttons -->
   &nbsp;&nbsp;&nbsp;
