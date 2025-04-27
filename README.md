@@ -17,22 +17,26 @@
 - ⚡ Fun fact **I think, am developing an app to surpass telegram🤔**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="sumeetceh" /></a> </p>
 
-<!-- Certifications Section -->
-<h3 align="left">My Certifications:</h3>
+<!-- My Works Section -->
+<h3 align="left">My Works:</h3>
 <p align="left">
+  <!-- Certifications Button -->
   <a href="https://www.linkedin.com/in/cybersumeet/details/certifications/" target="_blank">
     <img src="https://img.shields.io/badge/ 🎓%20View Sumeet's%20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
   </a>
-</p>
-
-<!-- Telegram Feedback Section -->
-<h3 align="left">Feedback on My Management Skills:</h3>
-<p align="left">
+  <!-- Spacer between buttons -->
+  &nbsp;&nbsp;&nbsp;
+  <!-- Management Feedback Button -->
   <a href="https://t.me/KnCKorean/24" target="_blank">
-    <img src="https://img.shields.io/badge/%20View%20On%20Telegram-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
+    <img src="https://img.shields.io/badge/ 📋%20View%20Telegram%20Feedback-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
+  </a>
+  <!-- Spacer between buttons -->
+  &nbsp;&nbsp;&nbsp;
+  <!-- Projects Button -->
+  <a href="https://github.com/SumeetCEH/CyberQuest" target="_blank">
+    <img src="https://img.shields.io/badge/%20View%20My%20Projects-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
