@@ -25,7 +25,13 @@
   </a>
 </p>
 
-
+<!-- Telegram Feedback Section -->
+<h3 align="left">Feedback on My Management Skills:</h3>
+<p align="left">
+  <a href="https://t.me/KnCKorean/24" target="_blank">
+    <img src="https://img.shields.io/badge/%20View%20On%20Telegram-skyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Feedback" />
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
