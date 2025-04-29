@@ -53,4 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeetceh&show_icons=true&locale=en&theme=radical" alt="sumeetceh" /></p>
 
-![Top Langs](https://github-readme-stats-nnu43siny-sumeetcehs-projects.vercel.app/api/top-langs/?username=sumeetceh&theme=dracula)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SUMEETCEH&theme=radical&hide_border=true)](https://git.io/streak-stats)
