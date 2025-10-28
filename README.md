@@ -1,20 +1,17 @@
 ![logo](https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetBanner.jpg) 
-<h1 align="center">Hi 👋, I'm Sumeet Kumar</h1>
-<h3 align="center">A passionate CyberSecurity Expert and Game Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Ratnakar </h1>
+<h3 align="center">A passionate Web Development </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetGif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetceh&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetceh" /> </p>
 
-- 🔭 Continuing with masters of **Computer Application**
+- 🔭 Continuing with masters of **Computer Applicaton**
 
-- 🌱 Learnt **CyberSecurity, CEH as my core subjects**
+- 🌱 Learnt **Web Development, C as my core subjects**
 
-- 👨‍💻 All of my projects are available at [ImSraj](Https://t.me/ImSraj)
+- 📫 How to reach me **Siddharthratnakar.007@gmail.comn**
 
-- 📫 How to reach me **Sraj2784kumar@gmail.com**
-
-- ⚡ Fun fact **I think, am developing an app to surpass telegram🤔**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="sumeetceh" /></a> </p>
 
 <!-- My Works Section -->
