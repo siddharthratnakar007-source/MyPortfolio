@@ -1,10 +1,10 @@
-![logo](https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetBanner.jpg) 
+![logo]() 
 <h1 align="center">Hi 👋, I'm Siddharth Ratnakar </h1>
 <h3 align="center">A passionate Web Development </h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/SumeetCEH/SumeetCEH/blob/e87583445f646608ae802f70d6ec8815ff86b214/SumeetGif.gif">
+<img align="right" alt="coding" width="400" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetceh&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetceh" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🔭 Continuing with masters of **Computer Applicaton**
 
