@@ -30,7 +30,7 @@
   <!-- Spacer between buttons -->
   &nbsp;&nbsp;&nbsp;
   <!-- Projects Button -->
-  <a href="https://github.com/SumeetCEH/CyberQuest" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/%20My%20CYBER%20Projects-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
 </p>
